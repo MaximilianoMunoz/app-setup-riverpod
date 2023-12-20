@@ -25,6 +25,7 @@ dependencies:
 dev_dependencies:
   build_runner: ^2.4.7
   change_app_package_name: ^1.1.0
+  flutter_launcher_icons: ^0.13.1
   flutter_lints: ^2.0.0
   flutter_test:
     sdk: flutter
@@ -46,3 +47,4 @@ flutter:
     - .env.production
     - assets/images/
     - assets/logo/
+    - assets/icon/
