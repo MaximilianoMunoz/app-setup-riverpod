@@ -1,4 +1,4 @@
-package com.example.verygoodcore.app_setup_riverpod
+package com.kingtide.shake.dev
 
 import io.flutter.embedding.android.FlutterActivity
 

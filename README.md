@@ -184,7 +184,7 @@ flutter pub run flutter_launcher_icons -f flutter_launcher_icons-staging.yaml
 
 Renombrar App ID en Android
 
-flutter pub run change_app_package_name:main com.kingtide.deeplink.demo
+flutter pub run change_app_package_name:main com.kingtide.shake.dev
 
 sha-256
 
