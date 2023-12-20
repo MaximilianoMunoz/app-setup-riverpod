@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.verygoodcore.app_setup_riverpod">
+    package="com.kingtide.shake.dev">
 
    <!--
     Internet permissions do not affect the `permission_handler` plugin, but are required if your app needs access to
@@ -111,7 +111,7 @@
     <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
     -->
 
-    <!-- Permissions options for the `request install packages` group -->
+    <!-- Permissions options for the `request install package="com.kingtide.shake.dev">
     <!--
     <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
     -->
